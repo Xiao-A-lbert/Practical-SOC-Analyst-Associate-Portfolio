@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Albert!
 
-<h2>Here are my SOC L1 skills and experiences from the SOC 101 Course by TCM Security</h2>
+<h2>Here are my SOC L1 skills and experiences</h2>
 
 <h3>🛡️👨‍💻 SOC L1 Skills:</h3>
 
