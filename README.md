@@ -13,3 +13,5 @@
     - https://github.com/Xiao-A-lbert/Email-Authentication-Analysis/tree/main
 - <b>Email URL Analysis</b>
     - https://github.com/Xiao-A-lbert/Email-URL-Analysis/tree/main
+- <b>Email Attachment Analysis</b>
+    - https://github.com/Xiao-A-lbert/Email-Attachment-Analysis/tree/main
