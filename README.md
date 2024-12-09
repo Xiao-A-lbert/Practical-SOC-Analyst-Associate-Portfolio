@@ -11,3 +11,5 @@
     - https://github.com/Xiao-A-lbert/Email-Header-and-Sender-Analysis/blob/main/README.md
 - <b>Email Authentication Analysis</b>
     - https://github.com/Xiao-A-lbert/Email-Authentication-Analysis/tree/main
+- <b>Email URL Analysis</b>
+    - https://github.com/Xiao-A-lbert/Email-URL-Analysis/tree/main
