@@ -14,7 +14,7 @@
 - <b>Email URL Analysis</b>
     - https://github.com/Xiao-A-lbert/Email-URL-Analysis/tree/main
 - <b>Email Attachment Analysis</b>
-    - https://github.com/Xiao-A-lbert/Email-Attachment-Analysis/tree/main\
+    - https://github.com/Xiao-A-lbert/Email-Attachment-Analysis
 - <b>Dynamic Attachment Malware Analysis</b>
     - https://github.com/Xiao-A-lbert/Dynamic-Attachment-Malware-Analysis/tree/main
 - <b>Documentation and Reporting</b>
