@@ -23,3 +23,7 @@
     - https://github.com/Xiao-A-lbert/Documentation-and-Reporting/tree/main
 - <b>Email Analysis Challenge 1</b>
     - https://github.com/Xiao-A-lbert/Email-Analysis-CTF-Challenge-1/tree/main
+- <b>Email Analysis Challenge 2</b>
+    - https://github.com/Xiao-A-lbert/Email-Analysis-CTF-Challenge-2/tree/main
+- <b>Email Analysis Challenge 3</b>
+    - https://github.com/Xiao-A-lbert/Email-Analysis-CTF-Challenge-3/tree/main
