@@ -21,3 +21,5 @@
     - https://github.com/Xiao-A-lbert/Static-PDF-Analysis
 - <b>Documentation and Reporting</b>
     - https://github.com/Xiao-A-lbert/Documentation-and-Reporting/tree/main
+- <b>Email Analysis Challenge 1</b>
+    - https://github.com/Xiao-A-lbert/Email-Analysis-CTF-Challenge-1/tree/main
