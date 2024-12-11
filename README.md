@@ -17,5 +17,7 @@
     - https://github.com/Xiao-A-lbert/Email-Attachment-Analysis
 - <b>Dynamic Attachment Malware Analysis</b>
     - https://github.com/Xiao-A-lbert/Dynamic-Attachment-Malware-Analysis/tree/main
+- <b>Static PDF Analysis</b>
+    - https://github.com/Xiao-A-lbert/Static-PDF-Analysis
 - <b>Documentation and Reporting</b>
     - https://github.com/Xiao-A-lbert/Documentation-and-Reporting/tree/main
