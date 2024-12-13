@@ -39,3 +39,5 @@
     - https://github.com/Xiao-A-lbert/tcpdump-Analyzing-Network-Traffic-2/tree/main
 - <b>tcpdump Challenge CTF</b>
     - https://github.com/Xiao-A-lbert/tcpdump-Challenge-CTF/tree/main
+- <b>Wireshark Statistics</b>
+    - https://github.com/Xiao-A-lbert/Wireshark-Statistics/tree/main
