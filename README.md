@@ -45,3 +45,5 @@
     - https://github.com/Xiao-A-lbert/Wireshark-Analyzing-Network-Traffic/blob/main/README.md
 - <b>Wireshark Challenge CTF</b>
     - https://github.com/Xiao-A-lbert/Wireshark-Challenge-CTF/blob/main/README.md
+- <b>Snort Configuration</b>
+    - https://github.com/Xiao-A-lbert/Intro-to-Snort/tree/main
