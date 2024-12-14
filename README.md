@@ -47,3 +47,5 @@
     - https://github.com/Xiao-A-lbert/Wireshark-Challenge-CTF/blob/main/README.md
 - <b>Snort Configuration</b>
     - https://github.com/Xiao-A-lbert/Intro-to-Snort/tree/main
+- <b>Snort IDS and IPS</b>
+    - https://github.com/Xiao-A-lbert/Snort-IDS-and-IPS/tree/main
