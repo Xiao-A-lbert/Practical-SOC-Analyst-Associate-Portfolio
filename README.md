@@ -49,3 +49,5 @@
     - https://github.com/Xiao-A-lbert/Intro-to-Snort/tree/main
 - <b>Snort IDS and IPS</b>
     - https://github.com/Xiao-A-lbert/Snort-IDS-and-IPS/tree/main
+- <b>Snort IDS and IPS 2</b>
+    - https://github.com/Xiao-A-lbert/Snort-IDS-and-IPS-2/tree/main
