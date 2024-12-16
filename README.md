@@ -8,7 +8,7 @@
 
 # Phishing Analysis
 - <b>Email Header and Sender Analysis</b>
-    - https://github.com/Xiao-A-lbert/Email-Header-and-Sender-Analysis/blob/main/README.md
+    - https://github.com/Xiao-A-lbert/Email-Header-and-Sender-Analysis/tree/main
 - <b>Email Authentication Analysis</b>
     - https://github.com/Xiao-A-lbert/Email-Authentication-Analysis/tree/main
 - <b>Email URL Analysis</b>
