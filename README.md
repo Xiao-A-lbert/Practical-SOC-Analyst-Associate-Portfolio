@@ -42,9 +42,9 @@
 - <b>Wireshark Statistics</b>
     - https://github.com/Xiao-A-lbert/Wireshark-Statistics/tree/main
 - <b>Wireshark: Analyzing Network Traffic</b>
-    - https://github.com/Xiao-A-lbert/Wireshark-Analyzing-Network-Traffic/blob/main/README.md
+    - https://github.com/Xiao-A-lbert/Wireshark-Analyzing-Network-Traffic/tree/main
 - <b>Wireshark Challenge CTF</b>
-    - https://github.com/Xiao-A-lbert/Wireshark-Challenge-CTF/blob/main/README.md
+    - https://github.com/Xiao-A-lbert/Wireshark-Challenge-CTF/tree/main
 - <b>Snort Configuration</b>
     - https://github.com/Xiao-A-lbert/Intro-to-Snort/tree/main
 - <b>Snort IDS and IPS</b>
