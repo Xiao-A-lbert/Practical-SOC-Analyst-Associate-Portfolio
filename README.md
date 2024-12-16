@@ -51,3 +51,9 @@
     - https://github.com/Xiao-A-lbert/Snort-IDS-and-IPS/tree/main
 - <b>Snort IDS and IPS 2</b>
     - https://github.com/Xiao-A-lbert/Snort-IDS-and-IPS-2/tree/main
+
+# Endpoint Security
+- <b>Creating Malware in Metasploit</b>
+    - https://github.com/Xiao-A-lbert/Creating-Malware-in-Metasploit/tree/main
+
+
