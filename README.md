@@ -55,5 +55,5 @@
 # Endpoint Security
 - <b>Creating Malware in Metasploit</b>
     - https://github.com/Xiao-A-lbert/Creating-Malware-in-Metasploit/tree/main
-
-
+- <b>Windows Network Analysis</b>
+    - https://github.com/Xiao-A-lbert/Windows-Network-Analysis/blob/main/README.md
