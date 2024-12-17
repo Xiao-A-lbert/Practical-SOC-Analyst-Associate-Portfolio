@@ -59,3 +59,5 @@
     - https://github.com/Xiao-A-lbert/Windows-Network-Analysis/tree/main
  - <b>Windows Process Analysis</b>
     - https://github.com/Xiao-A-lbert/Windows-Process-Analysis/tree/main
+ - <b>Windows Autoruns</b>
+    - https://github.com/Xiao-A-lbert/Windows-Autoruns/tree/main
