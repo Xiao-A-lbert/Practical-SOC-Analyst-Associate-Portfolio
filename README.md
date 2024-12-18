@@ -63,3 +63,6 @@
     - https://github.com/Xiao-A-lbert/Windows-Autoruns/tree/main
  - <b>Windows Service Analysis</b>
     - https://github.com/Xiao-A-lbert/Windows-Service-Analysis/tree/main
+ - <b>Windows Scheduled Tasks</b>
+    - https://github.com/Xiao-A-lbert/Windows-Scheduled-Tasks/tree/main
+
