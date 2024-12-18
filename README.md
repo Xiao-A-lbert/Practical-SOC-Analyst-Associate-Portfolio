@@ -65,4 +65,5 @@
     - https://github.com/Xiao-A-lbert/Windows-Service-Analysis/tree/main
  - <b>Windows Scheduled Tasks</b>
     - https://github.com/Xiao-A-lbert/Windows-Scheduled-Tasks/tree/main
-
+ - <b>Windows Endpoint Analysis Challenge CTF</b>
+    - https://github.com/Xiao-A-lbert/Windows-Endpoint-Analysis-Challenge-CTF/tree/main
