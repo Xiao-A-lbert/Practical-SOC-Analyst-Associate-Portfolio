@@ -69,3 +69,5 @@
     - https://github.com/Xiao-A-lbert/Windows-Endpoint-Analysis-Challenge-CTF/tree/main
  - <b>Windows Event Logs & Challenge CTF</b>
     - https://github.com/Xiao-A-lbert/Windows-Event-Logs-Challenge-CTF/tree/main
+ - <b>Sysmon Events</b>
+    - https://github.com/Xiao-A-lbert/Sysmon-Events/tree/main
