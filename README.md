@@ -77,3 +77,5 @@
     - https://github.com/Xiao-A-lbert/Linux-Process-Analysis/tree/main
  - <b>Linux Cronjobs & Challenge CTF</b>
     - https://github.com/Xiao-A-lbert/Linux-Cronjobs-Challenge-CTF/tree/main
+ - <b>LimaCharlie EDR</b>
+    - https://github.com/Xiao-A-lbert/LimaCharlie-EDR/blob/main/README.md
