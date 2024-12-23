@@ -79,3 +79,7 @@
     - https://github.com/Xiao-A-lbert/Linux-Cronjobs-Challenge-CTF/tree/main
  - <b>LimaCharlie EDR</b>
     - https://github.com/Xiao-A-lbert/LimaCharlie-EDR/blob/main/README.md
+  
+# Security Information and Event Management (SIEM)
+- <b>Command Line Log Analysis</b>
+    - https://github.com/Xiao-A-lbert/Command-Line-Log-Analysis/tree/main
