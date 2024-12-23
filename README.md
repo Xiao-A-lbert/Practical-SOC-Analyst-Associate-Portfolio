@@ -83,3 +83,5 @@
 # Security Information and Event Management (SIEM)
 - <b>Command Line Log Analysis</b>
     - https://github.com/Xiao-A-lbert/Command-Line-Log-Analysis/tree/main
+- <b>Pattern Matching and Structured Log Analysis</b>
+    - https://github.com/Xiao-A-lbert/Pattern-Matching-Structured-Log-Analysis/tree/main
