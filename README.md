@@ -87,3 +87,5 @@
     - https://github.com/Xiao-A-lbert/Pattern-Matching-Structured-Log-Analysis/tree/main
 - <b>Log Analysis Challenge CTF</b>
     - https://github.com/Xiao-A-lbert/Log-Analysis-Challenge-CTF/tree/main
+- <b>Splunk: Importing and Exploring Events</b>
+    - https://github.com/Xiao-A-lbert/Splunk-Importing-and-Exploring-Events/tree/main
