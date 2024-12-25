@@ -89,3 +89,5 @@
     - https://github.com/Xiao-A-lbert/Log-Analysis-Challenge-CTF/tree/main
 - <b>Splunk: Importing and Exploring Events</b>
     - https://github.com/Xiao-A-lbert/Splunk-Importing-and-Exploring-Events/tree/main
+- <b>Splunk: Search Commands</b>
+    - https://github.com/Xiao-A-lbert/Splunk-Search-Commands/tree/main
