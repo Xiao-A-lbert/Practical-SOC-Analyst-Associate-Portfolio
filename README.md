@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Albert!
 
-<h2>Here are my SOC L1 skills and experiences gained from TCM Security's SOC 101 training course</h2>
+<h2>Here are my SOC L1 skills and experiences gained from TCM Security's SOC 101 training course in preparation for their PSAA (Practical SOC Analyst Associate) certificaiton.</h2>
 
 <h3>🛡️👨‍💻 SOC L1 Skills:</h3>
 
