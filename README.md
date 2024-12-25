@@ -91,3 +91,5 @@
     - https://github.com/Xiao-A-lbert/Splunk-Importing-and-Exploring-Events/tree/main
 - <b>Splunk: Search Commands</b>
     - https://github.com/Xiao-A-lbert/Splunk-Search-Commands/tree/main
+- <b>Splunk: Reports and Alerts</b>
+    - https://github.com/Xiao-A-lbert/Splunk-Reports-and-Alerts/tree/main
