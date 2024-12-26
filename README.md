@@ -95,3 +95,5 @@
     - https://github.com/Xiao-A-lbert/Splunk-Reports-and-Alerts/tree/main
 - <b>Splunk: Creating Dashboards</b>
     - https://github.com/Xiao-A-lbert/Splunk-Creating-Dashboards/tree/main
+- <b>Splunk: Deploying a Forwarder and Generating Real-Time Alerts</b>
+    - https://github.com/Xiao-A-lbert/Splunk-Deploying-a-Forwarder-and-Generating-Real-Time-Alerts/tree/main
