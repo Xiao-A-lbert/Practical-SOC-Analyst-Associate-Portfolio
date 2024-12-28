@@ -99,3 +99,7 @@
     - https://github.com/Xiao-A-lbert/Splunk-Deploying-a-Forwarder-and-Generating-Real-Time-Alerts/tree/main
 - <b>Splunk: Website Defacement CTF</b>
     - https://github.com/Xiao-A-lbert/Splunk-Website-Defacement-CTF/tree/main
+
+# Threat Intelligence
+- <b>Threat Intelligence and MITRE CTF</b>
+    - https://github.com/Xiao-A-lbert/Threat-Intelligence-MITRE-ATT-CK-CTF/tree/main
