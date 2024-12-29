@@ -105,3 +105,5 @@
     - https://github.com/Xiao-A-lbert/Threat-Intelligence-MITRE-ATT-CK-CTF/tree/main
 - <b>Yara Rules</b>
     - https://github.com/Xiao-A-lbert/Yara-Rules/blob/main/README.md
+- <b>Writing Yara Rules CTF</b>
+    - https://github.com/Xiao-A-lbert/Writing-Yara-Rules-CTF/tree/main
