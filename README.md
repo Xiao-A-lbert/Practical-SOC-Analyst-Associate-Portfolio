@@ -107,3 +107,5 @@
     - https://github.com/Xiao-A-lbert/Yara-Rules/blob/main/README.md
 - <b>Writing Yara Rules CTF</b>
     - https://github.com/Xiao-A-lbert/Writing-Yara-Rules-CTF/tree/main
+- <b>MISP Event Mangement and OSINT</b>
+    - https://github.com/Xiao-A-lbert/MISP-Event-Management-and-OSINT/tree/main
