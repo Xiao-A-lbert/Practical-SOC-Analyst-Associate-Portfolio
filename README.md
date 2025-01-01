@@ -115,3 +115,5 @@
     - https://github.com/Xiao-A-lbert/FTK-Imager/tree/main
 - <b>Common Windows Forensic Artifacts</b>
     - https://github.com/Xiao-A-lbert/Common-Windows-Forensic-Artifacts/tree/main
+- <b>Windows Forensic Artifacts: User and System</b>
+    - https://github.com/Xiao-A-lbert/Windows-Forensic-Artifacts-User-and-System/tree/main
