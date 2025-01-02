@@ -117,3 +117,5 @@
     - https://github.com/Xiao-A-lbert/Common-Windows-Forensic-Artifacts/tree/main
 - <b>Windows Forensic Artifacts: User and System</b>
     - https://github.com/Xiao-A-lbert/Windows-Forensic-Artifacts-User-and-System/tree/main
+- <b>Windows Forensic Artifacts: Files</b>
+    - https://github.com/Xiao-A-lbert/Windows-Forensic-Artifacts-Files/tree/main
