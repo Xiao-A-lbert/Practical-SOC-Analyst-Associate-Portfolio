@@ -121,3 +121,5 @@
     - https://github.com/Xiao-A-lbert/Windows-Forensic-Artifacts-Files/tree/main
 - <b>Windows Forensic Artifacts: Program Execution</b>
     - https://github.com/Xiao-A-lbert/Windows-Forensic-Artifacts-Program-Execution/tree/main
+- <b>Windows Forensic Artifacts: LNK Files, Prefetch Files, and Jump Lists</b>
+    - https://github.com/Xiao-A-lbert/Windows-Forensic-Artifacts-LNK-Files-Prefetch-Files-and-Jump-Lists/tree/main
