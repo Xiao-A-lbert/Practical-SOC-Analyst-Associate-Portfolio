@@ -127,3 +127,5 @@
     - https://github.com/Xiao-A-lbert/Volatility-Memory-Analysis/blob/main/README.md
 - <b>Volatility: Network Memory Analysis</b>
     - https://github.com/Xiao-A-lbert/Volatility-Network-Memory-Analysis/tree/main
+- <b>Volatility: Process Memory Analysis</b>
+    - https://github.com/Xiao-A-lbert/Volatility-Process-Memory-Analysis/tree/main
