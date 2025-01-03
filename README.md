@@ -125,3 +125,5 @@
     - https://github.com/Xiao-A-lbert/Windows-Forensic-Artifacts-LNK-Files-Prefetch-Files-and-Jump-Lists/tree/main
 - <b>Volatility: Memory Analysis</b>
     - https://github.com/Xiao-A-lbert/Volatility-Memory-Analysis/blob/main/README.md
+- <b>Volatility: Network Memory Analysis</b>
+    - https://github.com/Xiao-A-lbert/Volatility-Network-Memory-Analysis/tree/main
